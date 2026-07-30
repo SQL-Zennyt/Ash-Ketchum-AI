@@ -1,0 +1,62 @@
+1. Resumos Estruturados do Assunto
+A Jornada de Ash Ketchum: De Pallet ao Topo do Mundo
+A história começa na Cidade de Pallet, em Kanto, onde recebi meu primeiro Pokémon, Pikachu, das mãos do Professor Carvalho
+. No início, o Pikachu não me obedecia, mas depois que o protegi de um bando de Spearow, nos tornamos melhores amigos
+. Viajei por Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola e Galar
+.
+Grandes Conquistas: Venci a Liga Naranja, fui o primeiro campeão da Liga de Alola e conquistei o título de Campeão Mundial ao vencer o Torneio dos Oito Mestres, derrotando o invicto Leon
+.
+Evolução: Ao longo dos anos, melhorei minhas estratégias, aprendi sobre o vínculo com meus Pokémon (como a metamorfose afetiva com Greninja) e dominei mecânicas como Movimentos Z, Megaevolução e Gigamax
+.
+Mecânicas de Batalha e Estatísticas (Stats)
+Para ser um bom treinador, você precisa entender o que compõe a força de um Pokémon:
+Os Seis Atributos (Stats): HP (pontos de saúde), Ataque, Defesa, Ataque Especial, Defesa Especial e Velocidade
+.
+Físico vs. Especial: Ataques físicos dependem do Ataque do usuário e da Defesa do oponente; ataques especiais (como magias ou eletricidade à distância) usam o Ataque Especial e a Defesa Especial
+.
+O Potencial Escondido:
+IVs (Valores Individuais): É o "DNA" do Pokémon, pontos de 0 a 31 que ele já nasce possuindo
+.
+EVs (Valores de Esforço): Pontos ganhos através de treinamento e batalhas, podendo ser distribuídos para fortalecer atributos específicos
+.
+Natures (Naturezas): Personalidades que aumentam um atributo em 10% e diminuem outro em 10%
+.
+Tipos, Vantagens e Resistências
+Existem 18 tipos de Pokémon
+. O triângulo básico é Fogo > Planta > Água > Fogo
+.
+Imunidades: Alguns tipos não afetam outros, como Fantasma e Normal (que vivem em planos diferentes) ou Elétrico contra Terrestre (devido ao "fio terra")
+.
+STAB: Se um Pokémon usa um ataque do mesmo tipo que o dele, o golpe fica mais forte!
+.
+Mitologia Pokémon: A Criação do Universo
+Tudo começou com Arceus, que nasceu de um ovo no vazio e moldou o mundo com seus "mil braços"
+.
+O Trio da Criação: Arceus criou Dialga (Tempo), Palkia (Espaço) e Giratina (Antimatéria)
+.
+A Origem Genética: Mew é considerado o primeiro Pokémon genético, contendo o DNA de todas as espécies que viriam a seguir
+.
+Equilíbrio: Diversos lendários mantêm o equilíbrio da Terra, como Kyogre (mares), Groudon (terra) e Rayquaza (céus)
+.
+2. Glossário de Conceitos Principais
+BST (Base Stat Total): A soma de todas as estatísticas base de um Pokémon; ajuda a saber se uma espécie é forte no geral
+.
+Habilidade (Ability): Efeitos passivos que cada Pokémon possui. Alguns têm Habilidades Escondidas (Hidden Abilities), que são muito raras
+.
+Item Segurado (Held Item): Objetos que damos aos Pokémon para usar em batalha, como a Eviolite, que aumenta a defesa de quem ainda pode evoluir
+.
+Forma Regional: Versões de Pokémon que se adaptaram a ambientes diferentes (como as formas de Alola ou Galar), mudando sua aparência e tipo
+.
+TCG (Trading Card Game): O jogo de cartas ilustradas. Uma carta tem nome, estágio de evolução, PS (Pontos de Saúde), tipo, ataques e fraquezas
+.
+3. Conjunto de Prompts Reutilizáveis para Revisão
+Para que você continue estudando, pode usar estes comandos comigo ou com outros especialistas:
+Revisão de Vantagens: "Ash, quais são as fraquezas e imunidades do tipo [Inserir Tipo] e quais Pokémon você recomenda para enfrentar um ginásio desse tipo?"
+Análise de Atributos: "Explique a diferença entre IVs e EVs como se eu fosse um treinador iniciante e me diga como posso treinar a Velocidade do meu Pokémon."
+Mergulho na Lore: "Conte a história do conflito entre [Inserir Lendários, ex: Xerneas e Yveltal] e como o equilíbrio do mundo foi restaurado."
+Estratégia Competitiva: "Com base na Nature [Inserir Nature] e na Habilidade [Inserir Habilidade], qual é a melhor função para um [Inserir Pokémon] em uma equipe?"
+Treinamento TCG: "Quais são as partes principais de uma carta Pokémon e o que significa o símbolo de Raridade [Inserir Símbolo, ex: Estrela ou Círculo]?"
+
+
+Neste modulo, aprendemos principalmente a estruturar conhecimentos em uma IA, modelar sua capacidade de responder certas perguntas de certos assuntos, adapta-la para o assunto que quisermos
+E como utilizar da ferramenta para intensificar nossa evolução, seja para estruturar um resumo, estudar certos assutnos academicos, ou até mesmo, brincar um pouco de aprender sobre pokemon.
